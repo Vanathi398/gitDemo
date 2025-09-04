@@ -8,6 +8,8 @@ public class Welcome {
 		System.out.println("pushing the code to github");
 		System.out.println("Pulling the code to github");
 		System.out.println("Pulling the code to remote: attempt2");
+		System.out.println("pushing the code");
+		System.out.println("pushing to branch1");
 		
 	}
 
